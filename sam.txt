@@ -1,0 +1,4 @@
+data
+6 5 4 3 2 
+sorteddata
+-1 10 32 32 32 
